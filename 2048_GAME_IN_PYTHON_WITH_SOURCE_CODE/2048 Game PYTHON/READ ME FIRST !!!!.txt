@@ -1,0 +1,23 @@
+2048 GAME BUILT IN PYTHON with an Artificial Intelligence
+
+CONTROLS:LEFT, RIGHT, UP, DOWN ARROW KEYS
+
+
+***INSTALLATION***
+pip install term2048
+
+***TO PLAY (only after installation)***
+term2048
+
+
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
+
+
+***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
+
+
+***** FOR MORE PROJECTS :- https://code-projects.org/ *****
+
+
+
+#THANK YOU FOR DOWNLOADING
